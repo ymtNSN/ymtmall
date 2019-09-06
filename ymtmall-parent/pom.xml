@@ -41,12 +41,12 @@
         <repository>
             <id>ymt-release</id>
             <name>Nexus Release Repository</name>
-            <url>http://maven.igper.com/repository/ymt-releases/</url>
+            <url>http://maven.igper.com/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>ymt-snapshots</id>
             <name>Nexus Snapshot Repository</name>
-            <url>http://maven.igper.com/repository/ymt-snapshots/</url>
+            <url>http://maven.igper.com/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 
