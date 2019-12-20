@@ -1,4 +1,4 @@
-package com.ymtmall.commons.lock;
+package com.ymtmall.commons.lock.annotation;
 
 import java.lang.annotation.*;
 import java.util.concurrent.TimeUnit;

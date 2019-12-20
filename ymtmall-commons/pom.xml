@@ -29,7 +29,7 @@
             <url>http://maven.igper.com/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
-    
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
