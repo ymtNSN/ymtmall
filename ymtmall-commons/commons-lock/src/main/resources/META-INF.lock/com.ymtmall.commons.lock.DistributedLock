@@ -1,0 +1,4 @@
+redis=com.ymtmall.commons.lock.impl.DistributedRedisLock
+zookeeper=com.ymtmall.commons.lock.impl.zk.ZkMutexDistributedLock
+wrapper=com.ymtmall.commons.lock.impl.DistributedRedisLock
+zookeeper_v1=com.ymtmall.commons.lock.impl.zk.DistributedZookeeperReentrantLock
